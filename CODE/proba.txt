@@ -1,0 +1,3 @@
+molecule, smile
+mol1, ccc
+mol2,ccc
