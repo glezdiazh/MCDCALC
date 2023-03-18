@@ -1,8 +1,6 @@
 # MCDCALC
 MCDCalc: Calculation of Markov Singular Values Molecular Descriptors Online Tool
 
-MCDCalc: Calculation of Markov Singular Values Molecular Descriptors Online Tool
-
 Contributors: 
 
 Paula Carracedo-Reboredo (Online Tool Programing and Design), Carlos Fernandez-Lozano (Online Tool Programing and Design), 
